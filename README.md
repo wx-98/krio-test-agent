@@ -23,7 +23,7 @@
 
 1. 克隆项目
 ```bash
-git clone https://github.com/your-username/deepseek-calculator-agent.git
+git clone https://github.com/wx-98/krio-test-agent.git
 cd deepseek-calculator-agent
 ```
 
